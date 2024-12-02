@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **VHope**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **manohari.au03@gmail.com**
 
